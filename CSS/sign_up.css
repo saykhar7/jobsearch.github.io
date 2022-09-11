@@ -1,0 +1,68 @@
+/* Contact Us Page Design Start */
+
+  .text-box
+  {
+    margin-top: 250px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position:absolute;
+    width: 400px;
+  }
+
+  .text-box input
+  {
+    width: 100%;
+    height: 50px;
+    padding: 0 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #FF005D;
+  }
+
+.text-box input:focus
+  {
+    border: 1px solid #FF005D;
+    outline: 0;
+  }
+
+.text-box textarea
+  {
+    width: 100%;
+    height: 150px;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #FF005D;
+  }
+
+  .text-box textarea:focus
+  {
+    border: 1px solid #FF005D;
+    outline: 0;
+  }
+
+  .text-box button
+  {
+    border: 0;
+    padding: 10px 30px;
+    background: #fff;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #FF005D;
+    color: #000;
+    position: relative;
+  }
+
+  .text-box button:hover
+  {
+    background-color: #FF4F90;
+    transition: .5s;
+  }
+
+  .confirmation{
+    margin-top: 450px;
+    margin-left: 42.2%;
+  }
+
+
+/* Contact Us Page Design End */

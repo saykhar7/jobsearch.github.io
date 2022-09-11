@@ -1,0 +1,70 @@
+ /* Contact Us Page Design Start */
+
+.profile_pic{
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #FF005D;
+  height: 175px;
+  margin-left: 175px;
+}
+
+
+  .profile{
+    margin-top: 100px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position:absolute;
+    width: 400px;
+  }
+
+  .profile input
+  {
+    width: 100%;
+    height: 50px;
+    padding: 0 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #FF005D;
+  }
+
+  .profile input:focus
+  {
+    border: 1px solid #FF005D;
+    outline: 0;
+  }
+
+  .profile textarea
+  {
+    width: 100%;
+    height: 150px;
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #FF005D;
+  }
+
+  .profile textarea:focus
+  {
+    border: 1px solid #FF005D;
+    outline: 0;
+  }
+
+  .profile button
+  {
+    border: 0;
+    padding: 10px 30px;
+    background: #fff;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #FF005D;
+    color: #000;
+    position: relative;
+  }
+
+  .profile button:hover{
+    background-color: #FF4F90;
+    transition: .5s;
+  }
+
+
+/* Contact Us Page Design End */
